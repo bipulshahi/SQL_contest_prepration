@@ -1,15 +1,6 @@
-Perfect.
-We’ll build **full study material** for each section, one by one, with:
 
-- Easy explanations & analogies
-- Real examples
-- Query demonstrations
-- Practice exercises
-- Solutions
 
----
-
-# **Section 1: Core Database Properties (ACID)**
+# **Core Database Properties (ACID)**
 
 These are the core guarantees any reliable transactional database must provide.
 
