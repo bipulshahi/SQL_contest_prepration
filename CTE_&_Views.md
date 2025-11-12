@@ -1,5 +1,4 @@
-Excellent — that’s exactly the right next step after mastering normalization. 👌
-Let’s now begin **“CTEs & Views”** using the same structured, example-driven approach (with input data, query, and output).
+**“CTEs & Views”** using the same structured, example-driven approach (with input data, query, and output).
 
 ---
 
