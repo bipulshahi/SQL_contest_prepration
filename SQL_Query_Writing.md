@@ -1,13 +1,5 @@
 **SQL Query Writing**
-
-We’ll keep the same teaching style:
- Short concept explanation
- Input table
- SQL example
- Predicted output (step-by-step)
- Common errors and exercises
-
-Let’s go topic by topic — starting today with **GROUP BY queries** and **error identification**.
+**GROUP BY queries** and **error identification**.
 
 ---
 
