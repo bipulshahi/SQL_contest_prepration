@@ -161,10 +161,10 @@ The order of columns in a composite index matters.
 
 | Drawback                        | Description                                                            |
 | ------------------------------- | ---------------------------------------------------------------------- |
-| 1️⃣ Slower INSERT/UPDATE/DELETE | Each index must also be updated → slows down write operations          |
-| 2️⃣ More Disk Space             | Indexes take up additional storage                                     |
-| 3️⃣ Maintenance Overhead        | Too many indexes confuse the optimizer and increase rebuild costs      |
-| 4️⃣ Diminishing Returns         | Not all indexes improve performance — some queries may even get slower |
+| 1️. Slower INSERT/UPDATE/DELETE | Each index must also be updated → slows down write operations          |
+| 2️. More Disk Space             | Indexes take up additional storage                                     |
+| 3️. Maintenance Overhead        | Too many indexes confuse the optimizer and increase rebuild costs      |
+| 4️. Diminishing Returns         | Not all indexes improve performance — some queries may even get slower |
 
 ** Best Practice:**
 Create indexes **only on frequently used columns** in:
