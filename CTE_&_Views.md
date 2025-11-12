@@ -2,7 +2,7 @@
 
 ---
 
-#  **Section 4: CTEs & Views**
+#  *CTEs & Views**
 
 ---
 
